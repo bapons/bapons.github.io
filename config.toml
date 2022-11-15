@@ -1,4 +1,4 @@
-baseURL = 'https://bpons.github.io/'
+baseURL = 'https://bapons.github.io/'
 languageCode = 'en-us'
 title = 'Bartomeu Pons Perelló'
 theme = 'cactus'
