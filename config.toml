@@ -1,4 +1,4 @@
-baseURL = 'http://www.bapons.com'
+baseURL = 'http://bapons.com'
 languageCode = 'en-us'
 title = 'Bartomeu Pons Perelló'
 theme = 'cactus'
